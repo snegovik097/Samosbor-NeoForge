@@ -1,0 +1,166 @@
+[02авг.2025 14:30:11.287] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientdev, --version, 21.1.193, --assetIndex, 17, --assetsDir, C:\\Users\\snegu\\.gradle\\caches\\neoformruntime\\assets, --gameDir, ., --fml.fmlVersion, 4.0.41, --fml.mcVersion, 1.21.1, --fml.neoForgeVersion, 21.1.193, --fml.neoFormVersion, 20240808.144430]
+[02авг.2025 14:30:11.297] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 21.0.7+8-LTS-245
+[02авг.2025 14:30:11.299] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.7 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[02авг.2025 14:30:11.435] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[02авг.2025 14:30:11.527] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[02авг.2025 14:30:11.659] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[02авг.2025 14:30:11.745] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/snegu/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar%23138!/ Service=ModLauncher Env=CLIENT
+[02авг.2025 14:30:12.003] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce RTX 4060/PCIe/SSE2 GL version 4.6.0 NVIDIA 576.88, NVIDIA Corporation
+[02авг.2025 14:30:12.191] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[02авг.2025 14:30:12.192] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Architectury 13.0.8 (architectury)
+		Cloth Config v15 API 15.0.140 (cloth_config)
+		Minecraft 1.21.1 (minecraft)
+		Mouse Tweaks 2.26.1 (mousetweaks)
+		NeoForge 21.1.193 (neoforge)
+		Roughly Enough Items (REI) 16.0.799 (roughlyenoughitems)
+		Samosbor 0.1-SNAPSHOT (samosbor)
+[02авг.2025 14:30:13.152] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02авг.2025 14:30:13.163] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[02авг.2025 14:30:13.175] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclientdev' with arguments [--version, 21.1.193, --gameDir, ., --assetsDir, C:\Users\snegu\.gradle\caches\neoformruntime\assets, --assetIndex, 17]
+[02авг.2025 14:30:13.577] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02авг.2025 14:30:14.607] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 229 Datafixer optimizations took 266 milliseconds
+[02авг.2025 14:30:18.117] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02авг.2025 14:30:18.118] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02авг.2025 14:30:18.120] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02авг.2025 14:30:18.120] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02авг.2025 14:30:18.121] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02авг.2025 14:30:18.239] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/E:/Minecraft%20Mods/Samosbor%20NeoForge%201.21.1/build/moddev/artifacts/neoforge-21.1.193.jar%23193!/assets/.mcassetsroot' uses unexpected schema
+[02авг.2025 14:30:18.240] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/E:/Minecraft%20Mods/Samosbor%20NeoForge%201.21.1/build/moddev/artifacts/neoforge-21.1.193.jar%23193!/data/.mcassetsroot' uses unexpected schema
+[02авг.2025 14:30:18.259] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02авг.2025 14:30:18.265] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[02авг.2025 14:30:18.337] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[02авг.2025 14:30:18.501] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.193, for MC 1.21.1
+[02авг.2025 14:30:18.612] [modloading-worker-0/INFO] [REI/]: [REI] Config loaded
+[02авг.2025 14:30:18.674] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[02авг.2025 14:30:18.674] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[02авг.2025 14:30:18.675] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[02авг.2025 14:30:18.675] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[02авг.2025 14:30:18.689] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIClientPlugin
+[02авг.2025 14:30:18.689] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIPlugin
+[02авг.2025 14:30:18.699] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[02авг.2025 14:30:18.699] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[02авг.2025 14:30:18.700] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[02авг.2025 14:30:18.700] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[02авг.2025 14:30:19.167] [Render thread/INFO] [net.neoforged.neoforge.gametest.GameTestHooks/]: Enabled Gametest Namespaces: [samosbor]
+[02авг.2025 14:30:19.257] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources, mod/roughlyenoughitems, mod/mousetweaks, mod/cloth_config, mod/samosbor, mod/architectury, mod/neoforge
+[02авг.2025 14:30:19.311] [Worker-Main-7/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
+[02авг.2025 14:30:19.435] [Worker-Main-1/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
+[02авг.2025 14:30:20.406] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[02авг.2025 14:30:20.407] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[02авг.2025 14:30:20.477] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Динамики (Realtek(R) Audio)
+[02авг.2025 14:30:20.477] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[02авг.2025 14:30:20.565] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[02авг.2025 14:30:20.571] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[02авг.2025 14:30:20.571] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[02авг.2025 14:30:20.571] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[02авг.2025 14:30:20.571] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[02авг.2025 14:30:20.573] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[02авг.2025 14:30:20.574] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[02авг.2025 14:30:20.574] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[02авг.2025 14:30:20.574] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[02авг.2025 14:30:20.721] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[02авг.2025 14:30:20.722] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[02авг.2025 14:30:20.722] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[02авг.2025 14:30:20.722] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[02авг.2025 14:30:20.722] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[02авг.2025 14:30:20.739] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[02авг.2025 14:30:20.779] [Render thread/INFO] [net.neoforged.neoforge.client.entity.animation.json.AnimationLoader/]: Loaded 0 entity animations
+[02авг.2025 14:30:26.184] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1294 recipes
+[02авг.2025 14:30:26.295] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[02авг.2025 14:30:26.640] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.1
+[02авг.2025 14:30:26.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02авг.2025 14:30:26.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02авг.2025 14:30:27.061] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Подготовка области возрождения: 0%
+[02авг.2025 14:30:27.098] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[02авг.2025 14:30:27.101] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 191 ms
+[02авг.2025 14:30:27.122] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[02авг.2025 14:30:27.122] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[02авг.2025 14:30:27.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:a82ed3c6] logged in with entity id 1 at (3.3569746533123945, -60.0, -0.699999988079071)
+[02авг.2025 14:30:27.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev присоединился к игре
+[02авг.2025 14:30:27.811] [REI-ReloadPlugins/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[02авг.2025 14:30:27.811] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
+[02авг.2025 14:30:27.812] [REI-ReloadPlugins/INFO] [REI/]: [REI] Plugins (5):
+[02авг.2025 14:30:27.812] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultClientPluginImpl of DefaultClientPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:27.812] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:27.812] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[02авг.2025 14:30:27.812] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:27.812] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:27.812] [REI-ReloadPlugins/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[02авг.2025 14:30:27.828] [REI-ReloadPlugins/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[02авг.2025 14:30:27.828] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIClientPlugin starting main-reload for START.
+[02авг.2025 14:30:27.829] [REI-ReloadPlugins/INFO] [REI/]: [REI] Plugins (3):
+[02авг.2025 14:30:27.830] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultClientPluginImpl of DefaultClientPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:27.830] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[02авг.2025 14:30:27.830] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:27.830] [REI-ReloadPlugins/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[02авг.2025 14:30:28.062] [Render thread/WARN] [REI/]: [REI] Trying to start reload plugins of stage START but found 1 existing reload task(s)!
+[02авг.2025 14:30:28.172] [REI-ReloadPlugins/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02авг.2025 14:30:28.172] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
+[02авг.2025 14:30:28.173] [REI-ReloadPlugins/INFO] [REI/]: [REI] Plugins (5):
+[02авг.2025 14:30:28.173] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultClientPluginImpl of DefaultClientPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:28.173] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:28.173] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.173] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.173] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.173] [REI-ReloadPlugins/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02авг.2025 14:30:28.179] [REI-ReloadPlugins/INFO] [REI/]: [REI] ========================================
+[02авг.2025 14:30:28.179] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIClientPlugin starting main-reload for START.
+[02авг.2025 14:30:28.180] [REI-ReloadPlugins/INFO] [REI/]: [REI] Plugins (3):
+[02авг.2025 14:30:28.180] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultClientPluginImpl of DefaultClientPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:28.181] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.181] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.181] [REI-ReloadPlugins/INFO] [REI/]: [REI] ========================================
+[02авг.2025 14:30:28.189] [Render thread/WARN] [REI/]: [REI] Found 1 existing reload task(s) after trying to terminate them!
+[02авг.2025 14:30:28.200] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 54 advancements
+[02авг.2025 14:30:28.298] [REI-ReloadPlugins/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02авг.2025 14:30:28.298] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for START.
+[02авг.2025 14:30:28.298] [REI-ReloadPlugins/INFO] [REI/]: [REI] Plugins (2):
+[02авг.2025 14:30:28.298] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:28.298] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.298] [REI-ReloadPlugins/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02авг.2025 14:30:28.304] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIPlugin finished post-reload for START in 1.426 ms, totaling 9.355 ms.
+[02авг.2025 14:30:28.308] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIClientPlugin finished post-reload for START in 1.729 ms, totaling 122.0 ms.
+[02авг.2025 14:30:28.309] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for START in 405.9 μs, totaling 3.722 ms.
+[02авг.2025 14:30:28.318] [REI-ReloadPlugins/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02авг.2025 14:30:28.318] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIPlugin starting main-reload for END.
+[02авг.2025 14:30:28.319] [REI-ReloadPlugins/INFO] [REI/]: [REI] Plugins (5):
+[02авг.2025 14:30:28.319] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultClientPluginImpl of DefaultClientPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:28.319] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:28.319] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.319] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.319] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.319] [REI-ReloadPlugins/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02авг.2025 14:30:28.344] [REI-ReloadPlugins/INFO] [REI/]: [REI] ========================================
+[02авг.2025 14:30:28.344] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIClientPlugin starting main-reload for END.
+[02авг.2025 14:30:28.345] [REI-ReloadPlugins/INFO] [REI/]: [REI] Plugins (3):
+[02авг.2025 14:30:28.345] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultClientPluginImpl of DefaultClientPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:28.345] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) HideIngredientsFromTagsPlugin of HideIngredientsFromTagsPlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.346] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultClientRuntimePlugin of DefaultClientRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.346] [REI-ReloadPlugins/INFO] [REI/]: [REI] ========================================
+[02авг.2025 14:30:28.893] [REI-ReloadPlugins/INFO] [REI/]: [REI] ========================================
+[02авг.2025 14:30:28.893] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for END.
+[02авг.2025 14:30:28.893] [REI-ReloadPlugins/INFO] [REI/]: [REI] Plugins (2):
+[02авг.2025 14:30:28.893] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (-100,00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[02авг.2025 14:30:28.893] [REI-ReloadPlugins/INFO] [REI/]: [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[02авг.2025 14:30:28.893] [REI-ReloadPlugins/INFO] [REI/]: [REI] ========================================
+[02авг.2025 14:30:28.897] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIPlugin finished post-reload for END in 521.8 μs, totaling 27.13 ms.
+[02авг.2025 14:30:28.900] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIClientPlugin finished post-reload for END in 1.919 ms, totaling 552.0 ms.
+[02авг.2025 14:30:28.901] [REI-ReloadPlugins/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for END in 384.0 μs, totaling 4.043 ms.
+[02авг.2025 14:30:38.996] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[02авг.2025 14:30:39.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Отключение
+[02авг.2025 14:30:39.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev покинул игру
+[02авг.2025 14:30:39.069] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[02авг.2025 14:30:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02авг.2025 14:30:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02авг.2025 14:30:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02авг.2025 14:30:39.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:overworld
+[02авг.2025 14:30:39.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_nether
+[02авг.2025 14:30:39.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_end
+[02авг.2025 14:30:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Новый мир): All chunks are saved
+[02авг.2025 14:30:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02авг.2025 14:30:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02авг.2025 14:30:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
