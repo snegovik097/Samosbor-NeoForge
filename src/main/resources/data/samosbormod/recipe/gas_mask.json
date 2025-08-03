@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "LLL",
+        "SiS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "S": {
+            "item": "samosbor:gas_mask_filter"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "id": "samosbor:gas_mask",
+        "count": 1
+    }
+}

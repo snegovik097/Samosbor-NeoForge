@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i/i",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "id": "samosbor:rake",
+        "count": 1
+    }
+}
+//{
+//    "type": "minecraft:crafting_shaped",
+//    "category": "misc",
+//    "key": {
+//        "B": {
+//            "item": "minecraft:iron_ingot"
+//        }
+//    },
+//    "pattern": [
+//        "   ",
+//        "   ",
+//        "BBB"
+//    ],
+//    "result": {
+//        "count": 1,
+//        "id": "samosbor:rake"
+//    }
+//}
